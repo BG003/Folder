@@ -89,7 +89,7 @@ public class DriverClass {
         System.out.println("| 5. | Delete Record.          |");
         System.out.println("| 6. | Exit.                   |");
         System.out.println("+----+-------------------------+");
-        System.out.print("----------> Enter Your Choice <---------- ");
+        System.out.print("----------> Enter Your Choice (1-6) <---------- ");
     }
 
     private static int getIntegerChoice() {
